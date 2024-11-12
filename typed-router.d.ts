@@ -105,7 +105,6 @@ declare module 'vue-router/auto-routes' {
     '/posts/why-reproductions-are-required-zh': RouteRecordInfo<'/posts/why-reproductions-are-required-zh', '/posts/why-reproductions-are-required-zh', Record<never, never>, Record<never, never>>,
     '/posts/windicss-and-tailwind-jit': RouteRecordInfo<'/posts/windicss-and-tailwind-jit', '/posts/windicss-and-tailwind-jit', Record<never, never>, Record<never, never>>,
     '/projects': RouteRecordInfo<'/projects', '/projects', Record<never, never>, Record<never, never>>,
-    '/sponsors-list': RouteRecordInfo<'/sponsors-list', '/sponsors-list', Record<never, never>, Record<never, never>>,
     '/streams': RouteRecordInfo<'/streams', '/streams', Record<never, never>, Record<never, never>>,
     '/talks': RouteRecordInfo<'/talks', '/talks', Record<never, never>, Record<never, never>>,
   }

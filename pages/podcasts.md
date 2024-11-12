@@ -1,22 +1,22 @@
 ---
-title: Podcasts - Anthony Fu
+title: Podcasts - mengld
 display: ''
 art: plum
 items:
-  - title: 'Views on Vue #144 - Exploring Vitesse with Anthony Fu'
+  - title: 'Views on Vue #144 - Exploring Vitesse with mengld'
     date: '2021-03-02'
     path: 'https://viewsonvue.com/144'
     radio: true
-  - title: 'Enjoy the Vue #62 - Shaving Yaks with Anthony Fu'
+  - title: 'Enjoy the Vue #62 - Shaving Yaks with mengld'
     date: '2021-05-24'
     path: 'https://enjoythevue.io/episodes/62'
     radio: true
-  - title: 'Vue Shenzhen Meetup - Anthony Fu 线上访谈'
+  - title: 'Vue Shenzhen Meetup - mengld 线上访谈'
     date: '2021-11-02'
     path: 'https://www.bilibili.com/video/BV1jL4y1q76J'
     lang: 'zh'
     video: true
-  - title: 'ByteTalk #6 - 跟 Anthony Fu 聊聊全职开源和他的故事'
+  - title: 'ByteTalk #6 - 跟 mengld 聊聊全职开源和他的故事'
     date: '2021-12-09'
     path: 'https://bytetalk.fm/posts/episode-6/'
     lang: 'zh'
@@ -34,7 +34,7 @@ items:
     path: 'https://devtools.fm/episode/25'
     video: true
     radio: true
-  - title: 'funnyCoder #4 - Vue 和 NuxtLabs 核心成员 Anthony Fu 的开源人生'
+  - title: 'funnyCoder #4 - Vue 和 NuxtLabs 核心成员 mengld 的开源人生'
     date: '2022-03-07'
     path: 'https://www.bilibili.com/video/BV1eS4y1S7zB'
     lang: 'zh'
@@ -54,7 +54,7 @@ items:
     path: 'https://www.youtube.com/watch?v=6tSqIW2ds1Y'
     lang: 'en'
     video: true
-  - title: 'PodRocket - Vitest and VueUse with Anthony Fu'
+  - title: 'PodRocket - Vitest and VueUse with mengld'
     date: '2022-09-09'
     path: 'https://podrocket.logrocket.com/vitest-and-vueuse'
     lang: 'en'
@@ -84,22 +84,22 @@ items:
     path: 'https://www.youtube.com/watch?v=FFDMsoVG3R8'
     lang: 'zh'
     video: true
-  - title: 'TechniCality - Anthony Fu'
+  - title: 'TechniCality - mengld'
     date: '2023-07-22'
     path: 'https://fm.cali.so/64bb61a2d0844ea8123acc7f'
     lang: 'zh'
     video: true
     radio: true
-  - title: 'Web Worker - 和 Anthony Fu 聊技术开源、共建协作和前端思考'
+  - title: 'Web Worker - 和 mengld 聊技术开源、共建协作和前端思考'
     date: '2023-10-20'
     path: 'https://podcast.webworker.tech/38'
     lang: 'zh'
     radio: true
-  - title: "Vitest with Anthony Fu - At Artem's"
+  - title: "Vitest with mengld - At Artem's"
     date: '2024-02-14'
     path: 'https://youtu.be/5y8pgwd4Des'
     video: true
-  - title: 'Nuxt JS with Anthony Fu - Software Engineering Daily'
+  - title: 'Nuxt JS with mengld - Software Engineering Daily'
     date: '2024-05-08'
     path: 'https://softwareengineeringdaily.com/2024/05/08/nuxt-js-with-anthony-fu/'
     radio: true
