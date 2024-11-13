@@ -45,6 +45,7 @@ export default defineConfig({
     ],
   },
   plugins: [
+
     UnoCSS(),
 
     VueRouter({

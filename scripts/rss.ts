@@ -28,13 +28,13 @@ async function buildBlogRSS() {
   const options = {
     title: 'mengld',
     description: 'mengld\' Blog',
-    id: 'https://antfu.me/',
-    link: 'https://antfu.me/',
+    id: 'https://mengld.github.io/',
+    link: 'https://mengld.github.io/',
     copyright: 'CC BY-NC-SA 4.0 2021 © mengld',
     feedLinks: {
-      json: 'https://antfu.me/feed.json',
-      atom: 'https://antfu.me/feed.atom',
-      rss: 'https://antfu.me/feed.xml',
+      json: 'https://mengld.github.io/feed.json',
+      atom: 'https://mengld.github.io/feed.atom',
+      rss: 'https://mengld.github.io/feed.xml',
     },
   }
   const posts: any[] = (

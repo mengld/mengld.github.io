@@ -14,29 +14,13 @@ export interface Post {
   redirect?: string
 }
 
-export interface Talk {
-  title: string
-  description?: string
-  series?: string
-  lang?: string
-  presentations: TalkPresentation[]
-}
-
-export interface TalkPresentation {
-  lang?: string
+export interface Stream {
   date: string
   location?: string
-  conference: string
-  conferenceUrl: string
-  recording?: string
-  transcript?: string
-  pdf?: string
-  spa?: string
-}
-
-export interface UpcomingTalk {
-  title: string
-  date: string
-  platform: string
-  url: string
+  weather?: {
+    icon: string
+    temperature: number
+    condition: string
+  }
+  content: string
 }
