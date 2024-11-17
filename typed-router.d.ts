@@ -23,7 +23,7 @@ declare module 'vue-router/auto-routes' {
     '/bookmarks': RouteRecordInfo<'/bookmarks', '/bookmarks', Record<never, never>, Record<never, never>>,
     '/collective-sponsor-onetime': RouteRecordInfo<'/collective-sponsor-onetime', '/collective-sponsor-onetime', Record<never, never>, Record<never, never>>,
     '/posts': RouteRecordInfo<'/posts', '/posts', Record<never, never>, Record<never, never>>,
+    '/posts/test': RouteRecordInfo<'/posts/test', '/posts/test', Record<never, never>, Record<never, never>>,
     '/streams': RouteRecordInfo<'/streams', '/streams', Record<never, never>, Record<never, never>>,
-    '/streams/2024-11-13-01': RouteRecordInfo<'/streams/2024-11-13-01', '/streams/2024-11-13-01', Record<never, never>, Record<never, never>>,
   }
 }

@@ -14,13 +14,10 @@ export interface Post {
   redirect?: string
 }
 
-export interface Stream {
+export interface StreamItem {
+  content: string
   date: string
   location?: string
-  weather?: {
-    icon: string
-    temperature: number
-    condition: string
-  }
-  content: string
+  weather?: string
+  images?: string[]
 }

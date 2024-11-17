@@ -1,8 +1,9 @@
 ---
-title: Streams - mengld
+title: Stream - mengld
 display: ''
 art: plum
 ---
 
 <SubNav />
-<WrapperStreams :per-page="10" />
+Waiting for construction...
+<ListStreams />
