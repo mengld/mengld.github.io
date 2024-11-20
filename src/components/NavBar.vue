@@ -35,10 +35,14 @@ const { y: scroll } = useWindowScroll()
           <div i-ri-article-line md:hidden />
         </RouterLink>
 
-        <RouterLink to="/streams" title="Stream">
+        <!-- <RouterLink to="/streams" title="Stream">
           <span class="lt-md:hidden">Stream</span>
           <div i-ri-loop-left-line md:hidden />
-        </RouterLink>
+        </RouterLink> -->
+        <a href="https://bsky.app/profile/mengld.bsky.social" target="_blank" title="Stream">
+          <span class="lt-md:hidden">Stream</span>
+          <div i-ri-loop-left-line md:hidden />
+        </a>
 
         <!-- <RouterLink to="/chat" title="Let's Chat">
           <div i-ri-chat-1-line />
