@@ -23,7 +23,8 @@ declare module 'vue-router/auto-routes' {
     '/bookmarks': RouteRecordInfo<'/bookmarks', '/bookmarks', Record<never, never>, Record<never, never>>,
     '/collective-sponsor-onetime': RouteRecordInfo<'/collective-sponsor-onetime', '/collective-sponsor-onetime', Record<never, never>, Record<never, never>>,
     '/posts/': RouteRecordInfo<'/posts/', '/posts', Record<never, never>, Record<never, never>>,
-    '/posts/从0开始学大数据': RouteRecordInfo<'/posts/从0开始学大数据', '/posts/从0开始学大数据', Record<never, never>, Record<never, never>>,
+    '/posts/从零学习大数据（二）': RouteRecordInfo<'/posts/从零学习大数据（二）', '/posts/从零学习大数据（二）', Record<never, never>, Record<never, never>>,
+    '/posts/从零学习大数据（一）': RouteRecordInfo<'/posts/从零学习大数据（一）', '/posts/从零学习大数据（一）', Record<never, never>, Record<never, never>>,
     '/posts/我的博客': RouteRecordInfo<'/posts/我的博客', '/posts/我的博客', Record<never, never>, Record<never, never>>,
     '/streams': RouteRecordInfo<'/streams', '/streams', Record<never, never>, Record<never, never>>,
   }
