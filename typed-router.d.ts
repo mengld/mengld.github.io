@@ -24,6 +24,7 @@ declare module 'vue-router/auto-routes' {
     '/collective-sponsor-onetime': RouteRecordInfo<'/collective-sponsor-onetime', '/collective-sponsor-onetime', Record<never, never>, Record<never, never>>,
     '/posts/': RouteRecordInfo<'/posts/', '/posts', Record<never, never>, Record<never, never>>,
     '/posts/从零学习大数据（二）': RouteRecordInfo<'/posts/从零学习大数据（二）', '/posts/从零学习大数据（二）', Record<never, never>, Record<never, never>>,
+    '/posts/从零学习大数据（三）': RouteRecordInfo<'/posts/从零学习大数据（三）', '/posts/从零学习大数据（三）', Record<never, never>, Record<never, never>>,
     '/posts/从零学习大数据（一）': RouteRecordInfo<'/posts/从零学习大数据（一）', '/posts/从零学习大数据（一）', Record<never, never>, Record<never, never>>,
     '/posts/我的博客': RouteRecordInfo<'/posts/我的博客', '/posts/我的博客', Record<never, never>, Record<never, never>>,
     '/posts/职场写作': RouteRecordInfo<'/posts/职场写作', '/posts/职场写作', Record<never, never>, Record<never, never>>,
